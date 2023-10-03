@@ -3,6 +3,31 @@
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
 
+## UML
+
+class Atividades {
+  - id: Long
+  - tituloAtividade: String
+  - dataAtividade: Date
+  - descAtividade: String
+
+  + getId(): long
+  + setId(id: long): void
+  + getTituloAtividade(): String
+  + setTituloAtividade(tituloAtividade: String): void
+  + getDataAtividade(): Date
+  + setDataAtividade(dataAtividade: Date): void
+  + getDescAtividade(): String
+  + setDescAtividade(descAtividade: String): void
+}
+
+## História de usuário
+
+Preciso inserir atividades em uma lista de atividades e esta lista deve conter titulo, descricao e data.
+Deve ser possivel incluir, editar e excluir atividades.
+As atividades devem ser exibidas em formato de tabela contendo colunas com as informações ID, titulo, descricao e data.
+
+
 ## Running the application
 
 The project is a standard Maven project. To run it from the command line,
