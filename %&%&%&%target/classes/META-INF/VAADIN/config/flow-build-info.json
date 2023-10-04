@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou",
+  "node.version": "v18.17.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

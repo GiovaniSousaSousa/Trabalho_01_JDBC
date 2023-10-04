@@ -1,0 +1,9 @@
+com\example\application\views\lembretes\LembretesView.class
+com\example\application\views\MainLayout.class
+com\example\application\Application.class
+com\example\application\data\entity\Atividades.class
+com\example\application\data\dao\FabricaDeConexoes.class
+com\example\application\views\cadastro\CadastroView.class
+com\example\application\data\dao\AtividadeDao.class
+com\example\application\data\Controller\AtividadeController.class
+com\example\application\data\dao\BaseDAO.class

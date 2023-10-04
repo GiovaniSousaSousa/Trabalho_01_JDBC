@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Giovani/Desktop/lembrou/lembrou/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Giovani/Desktop/lembrou/lembrou/frontend/generated/jar-resources",
+  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "target/classes/META-INF/VAADIN/webapp/../config/",
+  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
+  "devBundleOutput": "C:/Users/Giovani/Desktop/lembrou/lembrou/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Giovani/Desktop/lembrou/lembrou/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Giovani/Desktop/lembrou/lembrou/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\Giovani\\Desktop\\lembrou\\lembrou\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
